@@ -241,18 +241,6 @@ body {
     /*position: relative;
     left: 140px;*/
   }
-
-  /* I was having difficulty making the values of properties change when applying media queries when the viewport was at different pixels*/
-  /*@media only screen and (min-width: 500px) and (max-width: 768px) {
-      img {
-            margin: auto;
-      }
-
-      .container {
-          margin: 0 auto;
-          width: 700px;
-      }
-  }-->*/
   
    /*.responsive {
     width: 100%;
